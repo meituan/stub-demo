@@ -1,0 +1,24 @@
+{
+  "name": "stub-demo",
+  "version": "1.0.0",
+  "description": "List of demos of how to use `stub`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "meituan/stub-demo",
+  "keywords": [
+    "demo",
+    "stub"
+  ],
+  "author": "zhongchiyu@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "monkeyjs": "^3.3.0",
+    "stub-http": "^1.4.0",
+    "stub-proxy": "^2.0.0",
+    "ejs": "^2.2.4",
+    "express": "^4.11.2",
+    "shelljs": "^0.3.0"
+  }
+}
